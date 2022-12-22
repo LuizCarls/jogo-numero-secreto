@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    font-size: 5em;
+    font-size: 4em;
 }
 
 h3 {
@@ -45,7 +45,7 @@ h3 {
     margin: 20px;
 }
 
-.btn-jogar {
+.btn-jogar{
     padding: 8px 15px;
     border: 0;
     background: var(--primary-color);
